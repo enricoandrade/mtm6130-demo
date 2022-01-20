@@ -1,0 +1,2 @@
+This is a week 2 demo file.
+My dog name is Kiki.
